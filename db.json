@@ -1,0 +1,72 @@
+{
+  "listTitipBarang": [
+    {
+      "id": 1,
+      "nama": "Permen Lollipop",
+      "merk": "Sugus",
+      "jumlah": 11
+    },
+    {
+      "id": 2,
+      "nama": "Wafer Coklat",
+      "merk": "Kitkat",
+      "jumlah": 12
+    },
+    {
+      "id": 3,
+      "nama": "Topi",
+      "merk": "Adidas",
+      "jumlah": 13
+    },
+    {
+      "id": 4,
+      "nama": "Permen Karet",
+      "merk": "Sugus",
+      "jumlah": 14
+    },
+    {
+      "id": 5,
+      "nama": "Pensil 2B",
+      "merk": "Zebra",
+      "jumlah": 15
+    }
+  ],
+  "listToko": [
+    {
+      "id": 1,
+      "nama": "toko Jaya",
+      "alamat": "jalan wonorejo permai tengah no.1",
+      "kecamatan": "rungkut",
+      "kota": "surabaya",
+      "telepon": "9158587016"
+    }, {
+      "id": 2,
+      "nama": "Toko Buku Murah Online",
+      "alamat": "jalan ir.dr.soekarno no.100",
+      "kecamatan": "rungkut",
+      "kota": "surabaya",
+      "telepon": "8043402883"
+    }, {
+      "id": 3,
+      "nama": "toko Rejeki",
+      "alamat": "jalan wonorejo permai tengah no.2",
+      "kecamatan": "rungkut",
+      "kota": "surabaya",
+      "telepon": "1758232069"
+    }, {
+      "id": 4,
+      "nama": "toko buku Pintar",
+      "alamat": "jalan sudirman no.123",
+      "kecamatan": "buduran",
+      "kota": "sidoarjo",
+      "telepon": "1162036335"
+    }, {
+      "id": 5,
+      "nama": "toko mainan Rejeki",
+      "alamat": "jalan satu dua tiga no.100",
+      "kecamatan": "buduran",
+      "kota": "sidoarjo",
+      "telepon": "9696643941"
+    }
+  ]
+}
